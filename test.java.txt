@@ -1,0 +1,12 @@
+public class test{
+
+int a；
+String b；
+
+	pubic String text(int a,String b){
+		system.out.println("ssssssss");
+		return "ccc";
+	}
+
+
+}
